@@ -1,0 +1,2422 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg4573"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="D-zag1_brick.svg"
+   inkscape:export-filename="/home/yusei/Documents/CIAA2018_pics/D-zag1_brick.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <defs
+     id="defs4575">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker27050"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path27052"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker16320"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path16322" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker46978"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path46980"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker44976"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path44978" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker46978-2"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path46980-6"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker44976-4"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path44978-1" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker46978-3"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path46980-8"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker44976-0"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path44978-4" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker46978-37"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path46980-3"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker44976-2"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path44978-6" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.8903745"
+     inkscape:cx="670.15796"
+     inkscape:cy="266.25414"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="2495"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5121" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4578">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)"
+       style="opacity:1;fill:#5fd3bc;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use26756"
+       width="119.01643"
+       height="40.392776"
+       x="469.61508"
+       y="738.00085" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="737.01044"
+       y="728.966"
+       id="use26758"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan26776"
+         x="737.01044"
+         y="728.966">Dzag1-SP</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="use26760"
+       d="m 661.46243,712.0316 6.32417,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 780.46243,712.0316 6.32417,4.9889 -3.6506,4.989"
+       id="use26762"
+       inkscape:connector-curvature="0" />
+    <rect
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)"
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use26764"
+       width="119.01643"
+       height="40.392776"
+       x="469.61508"
+       y="738.00085" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="737.01044"
+       y="728.966"
+       id="use26766"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan26786"
+         x="737.01044"
+         y="728.966">Dzag1-SP</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="use26768"
+       d="m 661.46243,712.0316 6.32417,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 780.46243,712.0316 6.32417,4.9889 -3.6506,4.989"
+       id="use26770"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="624.12024"
+       x="499.08948"
+       height="40.392776"
+       width="119.01643"
+       id="use26690"
+       style="opacity:1;fill:#5fd3bc;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use26692"
+       y="620.31885"
+       x="737.01965"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="620.31885"
+         x="737.01965"
+         id="tspan26710"
+         sodipodi:role="line">Dzag1-SP</tspan></text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 661.46243,602.0316 6.32417,4.9889 -3.6506,4.989"
+       id="use26694"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="use26696"
+       d="m 780.46243,602.0316 6.32417,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="624.12024"
+       x="499.08948"
+       height="40.392776"
+       width="119.01643"
+       id="use26698"
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use26700"
+       y="620.31885"
+       x="737.01965"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="620.31885"
+         x="737.01965"
+         id="tspan26720"
+         sodipodi:role="line">Dzag1-SP</tspan></text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 661.46243,602.0316 6.32417,4.9889 -3.6506,4.989"
+       id="use26702"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="use26704"
+       d="m 780.46243,602.0316 6.32417,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="1131.4048"
+       x="1167.7931"
+       height="81.805893"
+       width="39.018425"
+       id="use12944"
+       style="opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:0.99873936;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.26635413,0.99404714,-1.0059885,0,0,0)"
+       sodipodi:linespacing="125%"
+       id="use12946"
+       y="-1172.6041"
+       x="1139.7322"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.96193123px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-1172.6041"
+         x="1139.7322"
+         id="tspan12952"
+         sodipodi:role="line">Curve3</tspan></text>
+    <rect
+       y="1131.4058"
+       x="927.79407"
+       height="40.392776"
+       width="119.01643"
+       id="use10874"
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use10876"
+       y="1104.2924"
+       x="1303.952"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1104.2924"
+         x="1303.952"
+         id="tspan10886"
+         sodipodi:role="line">Dzag1-SP</tspan></text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1460.9983,1094.0316 6.3242,4.9889 -3.6507,4.989"
+       id="use10878"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#5fd3bc;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use10562"
+       width="119.01643"
+       height="40.392776"
+       x="1704.3522"
+       y="851.88116"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2016.9543"
+       y="837.61316"
+       id="use10564"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10580"
+         x="2016.9543"
+         y="837.61316">Dzag1-SP</tspan></text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2044.6741,822.0316 6.3241,4.9889 -3.6506,4.989"
+       id="use10566"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="use10568"
+       d="m 1924.6741,822.0316 6.3241,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="851.88116"
+       x="1704.3522"
+       height="40.392776"
+       width="119.01643"
+       id="use10570"
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use10572"
+       y="837.61316"
+       x="2016.9543"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="837.61316"
+         x="2016.9543"
+         id="tspan10590"
+         sodipodi:role="line">Dzag1-SP</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="use10574"
+       d="m 2044.6741,822.0316 6.3241,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use10520"
+       width="119.01643"
+       height="40.392776"
+       x="1704.3522"
+       y="624.12036"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1957.2896"
+       y="620.31885"
+       id="use10522"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10530"
+         x="1957.2896"
+         y="620.31885">Dzag1-SP</tspan></text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1985.7252,602.0316 6.3242,4.9889 -3.6506,4.989"
+       id="use10524"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="510.24002"
+       x="1704.3522"
+       height="40.392776"
+       width="119.01643"
+       id="use10506"
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use10508"
+       y="511.67169"
+       x="1927.4572"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="511.67169"
+         x="1927.4572"
+         id="tspan10516"
+         sodipodi:role="line">Dzag1-SP</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="use10510"
+       d="m 1956.2508,492.0316 6.3242,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="851.88098"
+       x="1074.3522"
+       height="40.392776"
+       width="119.01643"
+       id="use10180"
+       style="opacity:1;fill:#ff0000;fill-opacity:0.78431373;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"
+       sodipodi:linespacing="125%"
+       id="use10182"
+       y="846.5036"
+       x="1370.8342"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="846.5036"
+         x="1370.8342"
+         id="tspan10202"
+         sodipodi:role="line">Dzag1-1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="449.22812"
+       y="-58.151993"
+       id="text42880"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan42882"
+         x="449.22812"
+         y="-58.151993" /></text>
+    <rect
+       style="opacity:1;fill:#c8ab37;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use46878"
+       width="119.01643"
+       height="40.392776"
+       x="349.6149"
+       y="696.58978"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="604.66821"
+       y="689.45795"
+       id="use46880"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan46952"
+         x="604.66821"
+         y="689.45795">Dzig1-edge</tspan></text>
+    <rect
+       transform="matrix(0.25881905,0.96592583,-1,0,0,0)"
+       y="-348.72101"
+       x="696.49695"
+       height="39.195827"
+       width="81.989548"
+       id="use46882"
+       style="opacity:1;fill:#ff5555;fill-opacity:1;stroke:#000000;stroke-width:0.81823587;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       transform="matrix(0.26799054,1.0001543,-0.99984573,0,0,0)"
+       sodipodi:linespacing="125%"
+       id="use46884"
+       y="-322.85031"
+       x="708.61383"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.9293499px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:17.23431587px"
+         y="-322.85031"
+         x="708.61383"
+         id="tspan46958"
+         sodipodi:role="line">Curve2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1686.1373"
+       y="430.74228"
+       id="text42880-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan42882-9"
+         x="1686.1373"
+         y="430.74228" /></text>
+    <rect
+       y="696.58978"
+       x="469.61496"
+       height="40.392776"
+       width="119.01643"
+       id="use9226"
+       style="opacity:1;fill:#aad400;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use9228"
+       y="689.45795"
+       x="726.16248"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="689.45795"
+         x="726.16248"
+         id="tspan9234"
+         sodipodi:role="line">Dzig1-SP</tspan></text>
+    <rect
+       y="738.00085"
+       x="349.61493"
+       height="40.392776"
+       width="119.01643"
+       id="use9664"
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use9666"
+       y="728.966"
+       x="615.51636"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="728.966"
+         x="615.51636"
+         id="tspan9680"
+         sodipodi:role="line">Dzag1-SP</tspan></text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 541.46243,712.0316 6.32417,4.9889 -3.6506,4.989"
+       id="use9668"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="582.70935"
+       x="954.35217"
+       height="40.392776"
+       width="119.01643"
+       id="use9854"
+       style="opacity:1;fill:#aad400;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use9856"
+       y="580.81079"
+       x="1187.1033"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="580.81079"
+         x="1187.1033"
+         id="tspan9934"
+         sodipodi:role="line">Dzig1-SP</tspan></text>
+    <rect
+       y="624.12036"
+       x="954.35217"
+       height="40.392776"
+       width="119.01643"
+       id="use9858"
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use9860"
+       y="620.31885"
+       x="1197.9513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="620.31885"
+         x="1197.9513"
+         id="tspan9940"
+         sodipodi:role="line">Dzag1-SP</tspan></text>
+    <rect
+       y="582.70917"
+       x="1074.3522"
+       height="40.392776"
+       width="119.01643"
+       id="use9868"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"
+       sodipodi:linespacing="125%"
+       id="use9870"
+       y="587.15118"
+       x="1299.6234"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="587.15118"
+         x="1299.6234"
+         id="tspan9954"
+         sodipodi:role="line">Dzig1-1</tspan></text>
+    <rect
+       y="738.00079"
+       x="954.35217"
+       height="40.392776"
+       width="119.01643"
+       id="use9872"
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use9874"
+       y="728.966"
+       x="1227.7833"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="728.966"
+         x="1227.7833"
+         id="tspan9960"
+         sodipodi:role="line">Dzag1-SP</tspan></text>
+    <rect
+       y="696.58972"
+       x="954.35217"
+       height="40.392776"
+       width="119.01643"
+       id="use9878"
+       style="opacity:1;fill:#aad400;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use9880"
+       y="689.45795"
+       x="1216.9353"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="689.45795"
+         x="1216.9353"
+         id="tspan9968"
+         sodipodi:role="line">Dzig1-SP</tspan></text>
+    <rect
+       style="opacity:1;fill:#aad400;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use9882"
+       width="119.01643"
+       height="40.392776"
+       x="954.35217"
+       y="810.47009"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1246.7678"
+       y="798.1051"
+       id="use9884"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan9974"
+         x="1246.7678"
+         y="798.1051">Dzig1-SP</tspan></text>
+    <rect
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use9886"
+       width="119.01643"
+       height="40.392776"
+       x="954.35217"
+       y="851.88116"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1257.6158"
+       y="837.61316"
+       id="use9888"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan9980"
+         x="1257.6158"
+         y="837.61316">Dzag1-SP</tspan></text>
+    <rect
+       y="696.58954"
+       x="1074.3522"
+       height="40.392776"
+       width="119.01643"
+       id="use9892"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"
+       sodipodi:linespacing="125%"
+       id="use9894"
+       y="696.87701"
+       x="1329.7522"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="696.87701"
+         x="1329.7522"
+         id="tspan9988"
+         sodipodi:role="line">Dzig1-20</tspan></text>
+    <rect
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use9896"
+       width="119.01643"
+       height="40.392776"
+       x="1074.3522"
+       y="810.46991"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1359.8809"
+       y="806.60309"
+       id="use9898"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan9994"
+         x="1359.8809"
+         y="806.60309">Dzig1-21</tspan></text>
+    <rect
+       style="opacity:1;fill:#aad400;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use9904"
+       width="119.01643"
+       height="40.392776"
+       x="1194.3522"
+       y="582.70935"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1430.0914"
+       y="580.81079"
+       id="use9906"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10006"
+         x="1430.0914"
+         y="580.81079">Dzig1-SP</tspan></text>
+    <rect
+       y="696.58972"
+       x="1194.3522"
+       height="40.392776"
+       width="119.01643"
+       id="use9908"
+       style="opacity:1;fill:#aad400;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use9910"
+       y="689.45795"
+       x="1459.9238"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="689.45795"
+         x="1459.9238"
+         id="tspan10012"
+         sodipodi:role="line">Dzig1-SP</tspan></text>
+    <rect
+       style="opacity:1;fill:#aad400;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use9912"
+       width="119.01643"
+       height="40.392776"
+       x="1194.3522"
+       y="810.47009"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1489.7563"
+       y="798.1051"
+       id="use9914"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10018"
+         x="1489.7563"
+         y="798.1051">Dzig1-SP</tspan></text>
+    <rect
+       y="696.5896"
+       x="589.61499"
+       height="40.392776"
+       width="119.01643"
+       id="use10040"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"
+       sodipodi:linespacing="125%"
+       id="use10042"
+       y="696.87726"
+       x="843.80377"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="696.87726"
+         x="843.80377"
+         id="tspan10048"
+         sodipodi:role="line">Dzig1-20</tspan></text>
+    <rect
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use10050"
+       width="119.01643"
+       height="40.392776"
+       x="954.35217"
+       y="510.24002"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1168.1188"
+       y="511.67169"
+       id="use10052"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10072"
+         x="1168.1188"
+         y="511.67169">Dzag1-SP</tspan></text>
+    <rect
+       style="opacity:1;fill:#aad400;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use10056"
+       width="119.01643"
+       height="40.392776"
+       x="954.35217"
+       y="468.82895"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1157.2708"
+       y="472.16364"
+       id="use10058"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10080"
+         x="1157.2708"
+         y="472.16364">Dzig1-SP</tspan></text>
+    <rect
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use10060"
+       width="119.01643"
+       height="40.392776"
+       x="1074.3522"
+       y="468.82877"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1269.4952"
+       y="477.42511"
+       id="use10062"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10086"
+         x="1269.4952"
+         y="477.42511">Dzig1-f0</tspan></text>
+    <rect
+       y="468.82895"
+       x="1194.3522"
+       height="40.392776"
+       width="119.01643"
+       id="use10064"
+       style="opacity:1;fill:#aad400;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use10066"
+       y="472.16364"
+       x="1400.259"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="472.16364"
+         x="1400.259"
+         id="tspan10092"
+         sodipodi:role="line">Dzig1-SP</tspan></text>
+    <rect
+       y="510.23981"
+       x="1074.3522"
+       height="40.392776"
+       width="119.01643"
+       id="use10104"
+       style="opacity:1;fill:#ff0000;fill-opacity:0.78431373;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"
+       sodipodi:linespacing="125%"
+       id="use10106"
+       y="517.32538"
+       x="1280.4508"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="517.32538"
+         x="1280.4508"
+         id="tspan10112"
+         sodipodi:role="line">Dzag1-f0</tspan></text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1206.2508,492.0316 6.3242,4.9889 -3.6506,4.989"
+       id="use10054"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="use10114"
+       d="m 1326.2508,492.0316 6.3242,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:0.78431373;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use10118"
+       width="119.01643"
+       height="40.392776"
+       x="1074.3522"
+       y="624.12018"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1310.5786"
+       y="627.05145"
+       id="use10120"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10130"
+         x="1310.5786"
+         y="627.05145">Dzag1-1</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="use10122"
+       d="m 1235.7252,602.0316 6.3242,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1355.7252,602.0316 6.3242,4.9889 -3.6506,4.989"
+       id="use10124"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="use10176"
+       d="m 1294.6741,822.0316 6.3241,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1414.6741,822.0316 6.3241,4.9889 -3.6506,4.989"
+       id="use10178"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1294.6741,822.0316 6.3241,4.9889 -3.6506,4.989"
+       id="use10184"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="use10186"
+       d="m 1414.6741,822.0316 6.3241,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="738.00061"
+       x="1074.3522"
+       height="40.392776"
+       width="119.01643"
+       id="use10208"
+       style="opacity:1;fill:#ff0000;fill-opacity:0.78431373;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"
+       sodipodi:linespacing="125%"
+       id="use10210"
+       y="736.77753"
+       x="1340.7064"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="736.77753"
+         x="1340.7064"
+         id="tspan10220"
+         sodipodi:role="line">Dzag1-0</tspan></text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1265.1996,712.0316 6.3242,4.9889 -3.6506,4.989"
+       id="use10212"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="use10214"
+       d="m 1385.1996,712.0316 6.3242,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:0.78431373;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use10226"
+       width="119.01643"
+       height="40.392776"
+       x="1584.3522"
+       y="851.88098"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1882.1102"
+       y="846.5036"
+       id="use10228"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10330"
+         x="1882.1102"
+         y="846.5036">Dzag1-1</tspan></text>
+    <rect
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use10238"
+       width="119.01643"
+       height="40.392776"
+       x="1584.3522"
+       y="582.70917"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1810.8994"
+       y="587.15118"
+       id="use10240"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10348"
+         x="1810.8994"
+         y="587.15118">Dzig1-1</tspan></text>
+    <rect
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use10258"
+       width="119.01643"
+       height="40.392776"
+       x="1584.3522"
+       y="696.58954"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1841.0282"
+       y="696.87701"
+       id="use10260"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10378"
+         x="1841.0282"
+         y="696.87701">Dzig1-20</tspan></text>
+    <rect
+       y="810.46991"
+       x="1584.3522"
+       height="40.392776"
+       width="119.01643"
+       id="use10262"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"
+       sodipodi:linespacing="125%"
+       id="use10264"
+       y="806.60309"
+       x="1871.1569"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="806.60309"
+         x="1871.1569"
+         id="tspan10384"
+         sodipodi:role="line">Dzig1-21</tspan></text>
+    <rect
+       y="582.70935"
+       x="1704.3522"
+       height="40.392776"
+       width="119.01643"
+       id="use10266"
+       style="opacity:1;fill:#aad400;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use10268"
+       y="580.81079"
+       x="1946.4415"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="580.81079"
+         x="1946.4415"
+         id="tspan10390"
+         sodipodi:role="line">Dzig1-SP</tspan></text>
+    <rect
+       style="opacity:1;fill:#aad400;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use10270"
+       width="119.01643"
+       height="40.392776"
+       x="1704.3522"
+       y="696.58972"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1976.2739"
+       y="689.45795"
+       id="use10272"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10396"
+         x="1976.2739"
+         y="689.45795">Dzig1-SP</tspan></text>
+    <rect
+       y="810.47009"
+       x="1704.3522"
+       height="40.392776"
+       width="119.01643"
+       id="use10274"
+       style="opacity:1;fill:#aad400;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use10276"
+       y="798.1051"
+       x="2006.1064"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="798.1051"
+         x="2006.1064"
+         id="tspan10402"
+         sodipodi:role="line">Dzig1-SP</tspan></text>
+    <rect
+       y="468.82877"
+       x="1584.3522"
+       height="40.392776"
+       width="119.01643"
+       id="use10286"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"
+       sodipodi:linespacing="125%"
+       id="use10288"
+       y="477.42511"
+       x="1780.7712"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="477.42511"
+         x="1780.7712"
+         id="tspan10420"
+         sodipodi:role="line">Dzig1-f0</tspan></text>
+    <rect
+       style="opacity:1;fill:#aad400;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use10290"
+       width="119.01643"
+       height="40.392776"
+       x="1704.3522"
+       y="468.82895"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1916.6091"
+       y="472.16364"
+       id="use10292"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10426"
+         x="1916.6091"
+         y="472.16364">Dzig1-SP</tspan></text>
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:0.78431373;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use10294"
+       width="119.01643"
+       height="40.392776"
+       x="1584.3522"
+       y="510.23981"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1791.7268"
+       y="517.32538"
+       id="use10296"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10432"
+         x="1791.7268"
+         y="517.32538">Dzag1-f0</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="use10298"
+       d="m 1716.2508,492.0316 6.3242,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1836.2508,492.0316 6.3242,4.9889 -3.6506,4.989"
+       id="use10300"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="624.12018"
+       x="1584.3522"
+       height="40.392776"
+       width="119.01643"
+       id="use10302"
+       style="opacity:1;fill:#ff0000;fill-opacity:0.78431373;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"
+       sodipodi:linespacing="125%"
+       id="use10304"
+       y="627.05145"
+       x="1821.8546"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="627.05145"
+         x="1821.8546"
+         id="tspan10442"
+         sodipodi:role="line">Dzag1-1</tspan></text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1745.7252,602.0316 6.3242,4.9889 -3.6506,4.989"
+       id="use10306"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="use10308"
+       d="m 1865.7252,602.0316 6.3242,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1804.6741,822.0316 6.3241,4.9889 -3.6506,4.989"
+       id="use10310"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="use10312"
+       d="m 1924.6741,822.0316 6.3241,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="use10314"
+       d="m 1804.6741,822.0316 6.3241,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1924.6741,822.0316 6.3241,4.9889 -3.6506,4.989"
+       id="use10316"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:0.78431373;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use10318"
+       width="119.01643"
+       height="40.392776"
+       x="1584.3522"
+       y="738.00061"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1851.9824"
+       y="736.77753"
+       id="use10320"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10460"
+         x="1851.9824"
+         y="736.77753">Dzag1-0</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="use10322"
+       d="m 1775.1996,712.0316 6.3242,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use10466"
+       width="119.01643"
+       height="40.392776"
+       x="1824.3522"
+       y="468.82877"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2021.3718"
+       y="477.42511"
+       id="use10468"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10474"
+         x="2021.3718"
+         y="477.42511">Dzig1</tspan></text>
+    <rect
+       y="582.70917"
+       x="1824.3522"
+       height="40.392776"
+       width="119.01643"
+       id="use10476"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"
+       sodipodi:linespacing="125%"
+       id="use10478"
+       y="587.151"
+       x="2051.5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="587.151"
+         x="2051.5"
+         id="tspan10484"
+         sodipodi:role="line">Dzig1</tspan></text>
+    <rect
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use10486"
+       width="119.01643"
+       height="40.392776"
+       x="1824.3522"
+       y="696.58954"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2081.6279"
+       y="696.87708"
+       id="use10488"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10494"
+         x="2081.6279"
+         y="696.87708">Dzig1</tspan></text>
+    <rect
+       y="810.46991"
+       x="1824.3522"
+       height="40.392776"
+       width="119.01643"
+       id="use10496"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"
+       sodipodi:linespacing="125%"
+       id="use10498"
+       y="806.60315"
+       x="2111.7556"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="806.60315"
+         x="2111.7556"
+         id="tspan10504"
+         sodipodi:role="line">Dzig1</tspan></text>
+    <rect
+       y="738.00079"
+       x="1704.3522"
+       height="40.392776"
+       width="119.01643"
+       id="use10594"
+       style="opacity:1;fill:#5fd3bc;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use10596"
+       y="728.966"
+       x="1987.1219"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="728.966"
+         x="1987.1219"
+         id="tspan10616"
+         sodipodi:role="line">Dzag1-SP</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="use10598"
+       d="m 2015.1996,712.0316 6.3242,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1895.1996,712.0316 6.3242,4.9889 -3.6506,4.989"
+       id="use10600"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use10602"
+       width="119.01643"
+       height="40.392776"
+       x="1704.3522"
+       y="738.00079"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1987.1219"
+       y="728.966"
+       id="use10604"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10626"
+         x="1987.1219"
+         y="728.966">Dzag1-SP</tspan></text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2015.1996,712.0316 6.3242,4.9889 -3.6506,4.989"
+       id="use10606"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1895.1996,712.0316 6.3242,4.9889 -3.6506,4.989"
+       id="use10608"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="use10610"
+       d="m 1895.1996,712.0316 6.3242,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="1089.9945"
+       x="807.79407"
+       height="40.392776"
+       width="119.01643"
+       id="use10694"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"
+       sodipodi:linespacing="125%"
+       id="use10696"
+       y="1075.9298"
+       x="1166.6062"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1075.9298"
+         x="1166.6062"
+         id="tspan10828"
+         sodipodi:role="line">Dzig1</tspan></text>
+    <rect
+       style="opacity:1;fill:#aad400;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use10698"
+       width="119.01643"
+       height="40.392776"
+       x="927.79407"
+       y="1089.9948"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1293.1041"
+       y="1064.7845"
+       id="use10700"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10834"
+         x="1293.1041"
+         y="1064.7845">Dzig1-SP0</tspan></text>
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:0.78431373;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use10702"
+       width="119.01643"
+       height="40.392776"
+       x="807.79407"
+       y="1131.4056"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1177.5618"
+       y="1115.8301"
+       id="use10704"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10840"
+         x="1177.5618"
+         y="1115.8301">Dzag1</tspan></text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1220.4624,1092.0316 6.3242,4.9889 -3.6506,4.989"
+       id="use10708"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1152.3051"
+       y="-198.13379"
+       id="text42880-89"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan42882-0"
+         x="-1152.3051"
+         y="-198.13379" /></text>
+    <rect
+       style="opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:0.99873936;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use44095"
+       width="39.018425"
+       height="81.805893"
+       x="1047.7931"
+       y="1048.5826"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.96193123px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1059.2527"
+       y="-1053.3187"
+       id="use44101"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.26635413,0.99404714,-1.0059885,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan44151"
+         x="1059.2527"
+         y="-1053.3187">Curve1</tspan></text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1478.2909,1161.0316 -3.6507,4.9889 6.3242,4.989"
+       id="use12954"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:0.78431373;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12974"
+       width="480"
+       height="430"
+       x="1690"
+       y="442.36221" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:0.78431373;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12978"
+       width="480"
+       height="430"
+       x="1060"
+       y="442.36221" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 910,652.3622 60,0 0,0 0,0"
+       id="path12984"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker46978)"
+       d="m 990,652.3622 70,0"
+       id="path12986"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="980"
+       y="665.36218"
+       id="text13000"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan13002"
+         x="980"
+         y="665.36218">T</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1540,682.3622 60,0 0,0 0,0"
+       id="use13018"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker46978)"
+       d="m 1620,682.3622 70,0"
+       id="use13020"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1610"
+       y="695.36218"
+       id="use13022"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan13030"
+         x="1610"
+         y="695.36218">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1369.6273"
+       y="1856.2109"
+       id="text42880-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan42882-5"
+         x="1369.6273"
+         y="1856.2109" /></text>
+    <g
+       id="g16291"
+       transform="translate(25.15491,-1436.6688)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path46968"
+         d="m 1274.6274,2311.211 0,71.105 0,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.88885051px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path46970"
+         d="m 1274.6274,2411.211 0,30"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker46978-37)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text47042"
+         y="2406.2109"
+         x="1274.6273"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="2406.2109"
+           x="1274.6273"
+           id="tspan47044"
+           sodipodi:role="line">after LSB</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2170,682.3622 90,0 0,-320 -960,0 0,40"
+       id="path16316"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker16320)"
+       d="m 1300,422.3622 0,20"
+       id="path16318"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1300"
+       y="423.36221"
+       id="text16390"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan16392"
+         x="1300"
+         y="423.36221">T</tspan></text>
+    <rect
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use20693"
+       width="119.01643"
+       height="40.392776"
+       x="1047.7941"
+       y="1131.4058"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1425.4462"
+       y="1104.2924"
+       id="use20695"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan20703"
+         x="1425.4462"
+         y="1104.2924">Dzag1-SP</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="use20697"
+       d="m 1340.4624,1092.0316 6.3242,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:0.78431373;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect20709"
+       width="440"
+       height="170"
+       x="1085"
+       y="1007.3622" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 651.78079,573.16137 -6.32429,-4.98899 3.65067,-4.989"
+       id="use25861"
+       inkscape:connector-curvature="0" />
+    <rect
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)"
+       y="582.70917"
+       x="379.08945"
+       height="40.392776"
+       width="119.01643"
+       id="use25863"
+       style="opacity:1;fill:#c8ab37;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use25865"
+       y="580.81079"
+       x="604.67737"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="580.81079"
+         x="604.67737"
+         id="tspan25893"
+         sodipodi:role="line">Dzig1-edge0</tspan></text>
+    <rect
+       style="opacity:1;fill:#ff5555;fill-opacity:1;stroke:#000000;stroke-width:0.81823587;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use25867"
+       width="81.989548"
+       height="39.195827"
+       x="582.61633"
+       y="-378.19556"
+       transform="matrix(0.25881905,0.96592583,-1,0,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.9293499px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="598.63062"
+       y="-352.32922"
+       id="use25869"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.26799054,1.0001543,-0.99984573,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan25899"
+         x="598.63062"
+         y="-352.32922"
+         style="font-size:17.23431587px">Curve2</tspan></text>
+    <rect
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)"
+       style="opacity:1;fill:#aad400;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use25871"
+       width="119.01643"
+       height="40.392776"
+       x="499.08936"
+       y="582.70917" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="726.17169"
+       y="580.81079"
+       id="use25873"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan25905"
+         x="726.17169"
+         y="580.81079">Dzig1-SP</tspan></text>
+    <rect
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)"
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use25875"
+       width="119.01643"
+       height="40.392776"
+       x="379.08948"
+       y="624.12024" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="615.52551"
+       y="620.31885"
+       id="use25877"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan25911"
+         x="615.52551"
+         y="620.31885">Dzag1-SP</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="use25879"
+       d="m 541.46243,602.0316 6.32417,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use25881"
+       width="119.01643"
+       height="40.392776"
+       x="619.08942"
+       y="582.70898" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="843.22351"
+       y="587.15118"
+       id="use25883"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan25919"
+         x="843.22351"
+         y="587.15118">Dzig1-1</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use25861"
+       id="use25949"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use25863"
+       id="use25951"
+       width="100%"
+       height="100%" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="604.67737"
+       y="580.81079"
+       id="use25953"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan27030"
+         x="604.67737"
+         y="580.81079">Dzig1-edge</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use25879"
+       id="use25967"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use25949"
+       id="use26001"
+       transform="translate(-580,40)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use25951"
+       id="use26003"
+       transform="translate(-580,40)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use25953"
+       id="use26005"
+       transform="translate(-580,40)"
+       width="100%"
+       height="100%" />
+    <rect
+       transform="matrix(0.25881905,0.96592583,-1,0,0,0)"
+       y="212.52242"
+       x="624.0274"
+       height="39.195827"
+       width="81.989548"
+       id="use26007"
+       style="opacity:1;fill:#ff5555;fill-opacity:1;stroke:#000000;stroke-width:0.81823587;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       transform="matrix(0.26799054,1.0001543,-0.99984573,0,0,0)"
+       sodipodi:linespacing="125%"
+       id="use26009"
+       y="238.47989"
+       x="638.62445"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.9293499px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:17.23431587px"
+         y="238.47989"
+         x="638.62445"
+         id="tspan35733"
+         sodipodi:role="line">Curve2</tspan></text>
+    <rect
+       y="624.1203"
+       x="-91.628716"
+       height="40.392776"
+       width="119.01643"
+       id="use26011"
+       style="opacity:1;fill:#aad400;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use26013"
+       y="620.31885"
+       x="138.94649"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="620.31885"
+         x="138.94649"
+         id="tspan27022"
+         sodipodi:role="line">Dzig1-SP</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use25967"
+       id="use26019"
+       transform="translate(-581,40)"
+       width="100%"
+       height="100%" />
+    <rect
+       y="624.12012"
+       x="28.371367"
+       height="40.392776"
+       width="119.01643"
+       id="use26021"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"
+       sodipodi:linespacing="125%"
+       id="use26023"
+       y="627.05157"
+       x="261.98532"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="627.05157"
+         x="261.98532"
+         id="tspan26754"
+         sodipodi:role="line">Dzig1</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path12984"
+       id="use26033"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path12986"
+       id="use26035"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text13000"
+       id="use26037"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use26033"
+       id="use26039"
+       transform="translate(-580,0)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use26035"
+       id="use26041"
+       transform="translate(-580,0)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use26037"
+       id="use26043"
+       transform="translate(-580,0)"
+       width="100%"
+       height="100%" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="100"
+       y="592.36218"
+       id="text26045"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan26047"
+         x="100"
+         y="592.36218">Start</tspan></text>
+    <rect
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)"
+       style="opacity:1;fill:#5fd3bc;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use26792"
+       width="119.01643"
+       height="40.392776"
+       x="528.56384"
+       y="510.23965" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="737.02893"
+       y="511.67169"
+       id="use26794"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan26850"
+         x="737.02893"
+         y="511.67169">Dzag1-SP</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="use26796"
+       d="m 661.46243,492.0316 6.32417,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 780.46243,492.0316 6.32417,4.9889 -3.6506,4.989"
+       id="use26798"
+       inkscape:connector-curvature="0" />
+    <rect
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)"
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use26800"
+       width="119.01643"
+       height="40.392776"
+       x="528.56384"
+       y="510.23965" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="737.02893"
+       y="511.67169"
+       id="use26802"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan26860"
+         x="737.02893"
+         y="511.67169">Dzag1-SP</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="use26804"
+       d="m 661.46243,492.0316 6.32417,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 780.46243,492.0316 6.32417,4.9889 -3.6506,4.989"
+       id="use26806"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="use26808"
+       d="m 651.78079,463.16137 -6.32429,-4.98899 3.65067,-4.989"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#c8ab37;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use26810"
+       width="119.01643"
+       height="40.392776"
+       x="408.56384"
+       y="468.8287"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="604.68658"
+       y="472.16364"
+       id="use26812"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan26872"
+         x="604.68658"
+         y="472.16364">Dzig1-edge0</tspan></text>
+    <rect
+       transform="matrix(0.25881905,0.96592583,-1,0,0,0)"
+       y="-407.66995"
+       x="468.73587"
+       height="39.195827"
+       width="81.989548"
+       id="use26814"
+       style="opacity:1;fill:#ff5555;fill-opacity:1;stroke:#000000;stroke-width:0.81823587;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       transform="matrix(0.26799054,1.0001543,-0.99984573,0,0,0)"
+       sodipodi:linespacing="125%"
+       id="use26816"
+       y="-381.80814"
+       x="488.64749"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.9293499px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:17.23431587px"
+         y="-381.80814"
+         x="488.64749"
+         id="tspan26878"
+         sodipodi:role="line">Curve2</tspan></text>
+    <rect
+       y="468.8287"
+       x="528.56372"
+       height="40.392776"
+       width="119.01643"
+       id="use26818"
+       style="opacity:1;fill:#aad400;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use26820"
+       y="472.16364"
+       x="726.18091"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="472.16364"
+         x="726.18091"
+         id="tspan26884"
+         sodipodi:role="line">Dzig1-SP</tspan></text>
+    <rect
+       y="510.23965"
+       x="408.56387"
+       height="40.392776"
+       width="119.01643"
+       id="use26822"
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use26824"
+       y="511.67169"
+       x="615.53473"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="511.67169"
+         x="615.53473"
+         id="tspan26890"
+         sodipodi:role="line">Dzag1-SP</tspan></text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 541.46243,492.0316 6.32417,4.9889 -3.6506,4.989"
+       id="use26826"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="468.82852"
+       x="648.56378"
+       height="40.392776"
+       width="119.01643"
+       id="use26828"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"
+       sodipodi:linespacing="125%"
+       id="use26830"
+       y="477.42523"
+       x="842.64325"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="477.42523"
+         x="842.64325"
+         id="tspan26898"
+         sodipodi:role="line">Dzig1-f0</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="use26832"
+       d="m 651.78079,463.16137 -6.32429,-4.98899 3.65067,-4.989"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#c8ab37;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use26834"
+       width="119.01643"
+       height="40.392776"
+       x="408.56384"
+       y="468.8287"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="604.68658"
+       y="472.16364"
+       id="use26836"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan26906"
+         x="604.68658"
+         y="472.16364">Dzig1-edge</tspan></text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 541.46243,492.0316 6.32417,4.9889 -3.6506,4.989"
+       id="use26844"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="851.88147"
+       x="440.14072"
+       height="40.392776"
+       width="119.01643"
+       id="use26920"
+       style="opacity:1;fill:#5fd3bc;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use26922"
+       y="837.61316"
+       x="737.00122"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="837.61316"
+         x="737.00122"
+         id="tspan26966"
+         sodipodi:role="line">Dzag1-SP</tspan></text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 661.46243,822.0316 6.32417,4.9889 -3.6506,4.989"
+       id="use26924"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="use26926"
+       d="m 780.46243,822.0316 6.32417,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="851.88147"
+       x="440.14072"
+       height="40.392776"
+       width="119.01643"
+       id="use26928"
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use26930"
+       y="837.61316"
+       x="737.00122"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="837.61316"
+         x="737.00122"
+         id="tspan26976"
+         sodipodi:role="line">Dzag1-SP</tspan></text>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 661.46243,822.0316 6.32417,4.9889 -3.6506,4.989"
+       id="use26932"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="use26934"
+       d="m 780.46243,822.0316 6.32417,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)"
+       y="810.4704"
+       x="320.14035"
+       height="40.392776"
+       width="119.01643"
+       id="use26936"
+       style="opacity:1;fill:#c8ab37;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"
+       sodipodi:linespacing="125%"
+       id="use26938"
+       y="798.1051"
+       x="604.659"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="798.1051"
+         x="604.659"
+         id="tspan26986"
+         sodipodi:role="line">Dzig1-edge</tspan></text>
+    <rect
+       style="opacity:1;fill:#ff5555;fill-opacity:1;stroke:#000000;stroke-width:0.81823587;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use26940"
+       width="81.989548"
+       height="39.195827"
+       x="810.37756"
+       y="-319.24646"
+       transform="matrix(0.25881905,0.96592583,-1,0,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.9293499px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="818.59705"
+       y="-293.3714"
+       id="use26942"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.26799054,1.0001543,-0.99984573,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan26992"
+         x="818.59705"
+         y="-293.3714"
+         style="font-size:17.23431587px">Curve2</tspan></text>
+    <rect
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)"
+       style="opacity:1;fill:#aad400;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use26944"
+       width="119.01643"
+       height="40.392776"
+       x="440.14059"
+       y="810.4704" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="726.15326"
+       y="798.1051"
+       id="use26946"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan26998"
+         x="726.15326"
+         y="798.1051">Dzig1-SP</tspan></text>
+    <rect
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)"
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:1.00077093;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use26948"
+       width="119.01643"
+       height="40.392776"
+       x="320.14038"
+       y="851.88147" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.23960304px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="615.50714"
+       y="837.61316"
+       id="use26950"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98770135,0,8.3692185e-5,1.0124518,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan27004"
+         x="615.50714"
+         y="837.61316">Dzag1-SP</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="use26952"
+       d="m 541.46243,822.0316 6.32417,4.9889 -3.6506,4.989"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9976449px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       transform="matrix(1,0,0.25881905,0.96592583,0,0)"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.00077105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use26954"
+       width="119.01643"
+       height="40.392776"
+       x="560.14056"
+       y="810.47021" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.01951981px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="844.38397"
+       y="806.60333"
+       id="use26956"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99750713,0,-0.00527558,1.0024991,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan27012"
+         x="844.38397"
+         y="806.60333">Dzig1-21</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:0.78431373;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect27034"
+       width="430"
+       height="100"
+       x="-100"
+       y="592.36218" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:0.78431373;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect27036"
+       width="430"
+       height="430"
+       x="480"
+       y="442.36221" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker27050)"
+       d="m 1525,1087.3622 175,0"
+       id="path27038"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:'Dingbats, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1745"
+       y="1097.3622"
+       id="text27040"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan27042"
+         x="1745"
+         y="1097.3622">D-zig2</tspan></text>
+  </g>
+</svg>
